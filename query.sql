@@ -1,4 +1,4 @@
- /* First*/
+ /* Запит 1- Вивести назву гри і загальну суму продажів.*/
 SELECT
     game_name,
     SUM(to_number(sales, '9999.99')) AS suma
@@ -7,7 +7,7 @@ FROM
 GROUP BY
     game_name;
 
-/*Second*/
+/*Запит 2- Вивести жанр та % його популярності відносно інших жанрів.*/
 SELECT
     genre_name,
     ROUND((SUM(to_number(sales, '9999.99')))*100/(SELECT SUM(to_number(sales, '9999.99')) FROM sales),2) AS percent
@@ -19,7 +19,7 @@ GROUP BY
     genre_name;  
     
     
-/*Third*/
+/*Запит 3-Вивести динаміку продажів по компаніям.*/
 SELECT
     publisher_name,
     SUM(to_number(sales, '9999.99')) AS suma
