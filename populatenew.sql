@@ -1,4 +1,4 @@
- CREATE TABLE "SYS"."PS4" 
+ CREATE TABLE PS4
    (	"GAME" VARCHAR2(128 BYTE), 
 	"YEAR" VARCHAR2(26 BYTE), 
 	"GENRE" VARCHAR2(26 BYTE), 
@@ -307,7 +307,7 @@ Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WO
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Gundam Versus','2017','Action','Namco Bandai Games','0.08','0','0.18','0.02','0.28');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('NBA Live 14','2013','Sports','EA Sports','0.17','0.05','0','0.05','0.27');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Bravo Team VR','2018','Shooter','Sony Interactive Entertainment','0.12','0.09','0.02','0.04','0.27');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Killing Floor 2 ','2016','Shooter','Tripwire Interactive','0.19','0.03','0','0.05','0.27');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Killing Floor 2√ä','2016','Shooter','Tripwire Interactive','0.19','0.03','0','0.05','0.27');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Robinson: The Journey','2016','Action-Adventure','Sony Interactive Entertainment','0.14','0.09','0','0.05','0.27');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('DriveClub VR','2016','Racing','Sony Interactive Entertainment','0.12','0.09','0.01','0.04','0.27');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Fate/Extella: The Umbral Star','2016','Action','PQube','0.12','0','0.12','0.03','0.27');
@@ -354,7 +354,7 @@ Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WO
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Godzilla (2015)','2014','Action','Namco Bandai Games','0.11','0.03','0.03','0.03','0.2');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Eagle Flight','2016','Adventure','Ubisoft','0.09','0.08','0','0.03','0.2');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Agents of Mayhem','2017','Action','Deep Silver','0.08','0.08','0','0.03','0.2');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('MotoGP 14 ','2014','Racing','Milestone S.r.l.','0.05','0.11','0','0.03','0.2');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('MotoGP 14√ä','2014','Racing','Milestone S.r.l.','0.05','0.11','0','0.03','0.2');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Elite: Dangerous','2017','Simulation','Frontier Developments','0.06','0.1','0','0.03','0.19');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Singstar: Ultimate Party','2014','Music','Sony Computer Entertainment','0','0.16','0','0.03','0.19');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Toukiden Kiwami','2015','Action','Tecmo Koei','0.06','0.07','0.03','0.03','0.19');
@@ -380,7 +380,7 @@ Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WO
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Naruto Shippuden: Ultimate Ninja Storm Legacy','2017','Fighting','Namco Bandai Games','0.07','0.04','0.03','0.02','0.16');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Berserk and the Band of the Hawk','2016','Action','Tecmo Koei','0.07','0.02','0.05','0.02','0.16');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('BlazBlue: Chrono Phantasma Extend','2015','Fighting','PQube','0.08','0.04','0.02','0.02','0.16');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Pillars of Eternity','2017','Role-Playing','Paradox Interactive ','0.11','0.02','0','0.03','0.16');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Pillars of Eternity','2017','Role-Playing','Paradox Interactive√ä','0.11','0.02','0','0.03','0.16');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Valkyria: Azure Revolution','2017','Role-Playing','Deep Silver','0.04','0.03','0.07','0.02','0.16');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Gravity Rush Remastered','2015','Action-Adventure','Sony Computer Entertainment','0.02','0.06','0.05','0.02','0.16');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Psycho-Pass: Mandatory Happiness','2016','Visual Novel','NIS America','0.1','0.02','0','0.03','0.15');
@@ -566,7 +566,7 @@ Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WO
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Syberia III','2017','Adventure','Microids','0.04','0','0','0.01','0.05');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Sengoku Basara: Sanada Yukimura-Den','2016','Action','Capcom','0','0','0.05','0','0.05');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Sengoku Basara 4: Sumeragi','2015','Action','Capcom','0','0','0.05','0','0.05');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Sébastien Loeb Rally Evo','2016','Racing','Milestone S.r.l','0','0.04','0','0.01','0.05');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('S¬ébastien Loeb Rally Evo','2016','Racing','Milestone S.r.l','0','0.04','0','0.01','0.05');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Don''t Starve','2018','Adventure','505 Games','0.04','0','0','0.01','0.05');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Monster Jam: Crush It','2016','Racing','GameMill','0.04','0','0','0.01','0.05');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Prison Architect','2016','Simulation','Introversion Software','0.02','0.02','0','0.01','0.05');
@@ -780,18 +780,18 @@ Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WO
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('SOMA (2015)','2015','Misc','Frictional Games','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Cult County','2015','Misc','Renegade Kid','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('R.B.I. Baseball 14','2014','Misc','MLB.com','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Blue Estate ','2014','Misc','Focus Home Interactive','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Pure Pool ','2014','Misc','Triniti Interactive','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Blue Estate√ä','2014','Misc','Focus Home Interactive','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Pure Pool√ä','2014','Misc','Triniti Interactive','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Without Memory','2016','Misc','Unknown','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Bombshell','2014','Misc','3D Realms','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('The Forest','2015','Action','Endnight Games Ltd ','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Falling Skies: The Game ','2015','Role-Playing','Little Orbit','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('The Forest','2015','Action','Endnight Games Ltd√ä','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Falling Skies: The Game√ä','2015','Role-Playing','Little Orbit','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('EA Sports PGA Tour','2015','Sports','EA Sports','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Dead Island 2','2017','Action','Deep Silver','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Tetris Ultimate ','2014','Puzzle','Ubisoft','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Tetris Ultimate√ä','2014','Puzzle','Ubisoft','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Afro Samurai 2','2015','Action','Versus Evil','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('The Legend of Korra (2014)','2014','Action','Activision','0','0','0','0','0');
-Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('The Vanishing of Ethan Carter ','2015','Adventure','The Astronauts','0','0','0','0','0');
+Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('The Vanishing of Ethan Carter√ä','2015','Adventure','The Astronauts','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Godzilla (2014)','2014','Action','Namco Bandai Games','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Gran Turismo 7','2020','Racing','Sony Computer Entertainment','0','0','0','0','0');
 Insert into PS4 (GAME,YEAR,GENRE,PUBLISHER,NORTH_AMERICA,EUROPE,JAPAN,REST_OF_WORLD,GLOBAL) values ('Wild','2019','Adventure','Sony Interactive Entertainment','0','0','0','0','0');
